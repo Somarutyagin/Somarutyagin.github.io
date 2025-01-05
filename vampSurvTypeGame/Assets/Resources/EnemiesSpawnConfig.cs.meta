@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 8197dc552b36e7a4b91094dfda03bfa1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - <Enemy>k__BackingField: {fileID: 2043816780827849717, guid: 8ce472b93cd1a3b42a8f8073c6c133bd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
