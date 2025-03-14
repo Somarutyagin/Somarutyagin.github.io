@@ -28,4 +28,4 @@ I am a full stack Unity developer with about 7 years of development experience a
 
 [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://t.me/unity_prog)
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)
+[![codewars](https://www.codewars.com/users/Somarutyagin/badges/large))](https://www.codewars.com/users/Somarutyagin)
