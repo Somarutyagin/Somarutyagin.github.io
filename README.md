@@ -19,7 +19,13 @@ simple Vampire Survivors type game to showcase developer skills
  - [Math Crosswords](https://yandex.ru/games/app/271091)
  - [Cunning Thief](https://yandex.ru/games/app/190277)
 
-
+## Stack
+- Unity, c#, OOP, SOLID, DRY, KISS, singleton, fabric, strategy
+- unit test, json serialization, uniTask, MySQL, addressables
+- profiler, logcat, adaptive UI/UX, 2D/3D, zenject, DoTween
+- Spine, Figma, PhotoShop, Trello, GitHub, google sheets
+- Firebase sdk, Facebook sdk, Yandex sdk, Tenjin sdk, IronSource sdk, OneSignal sdk, Unity IAP
+  
 ## 🚀 About Me
 👨‍💻 
 I am a full stack Unity developer with about 7 years of development experience and about 5 years of commercial experience in game development
