@@ -29,11 +29,12 @@
   
 ## 🚀 About Me
 👨‍💻 
-I am a full stack Unity developer with about 7 years of development experience and about 5 years of commercial experience in game development
+I am a full stack Unity developer with about 7 years of development experience
+and about 5 years of commercial experience in game development
 
 🧠 I'm currently learning ECS and Unity patterns
 
 ☎️ 
-Contact me [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://t.me/unity_prog)
+Contact me                                                 [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://t.me/unity_prog)
 
-🤖 MY Codewars profile [![codewars](https://www.codewars.com/users/Somarutyagin/badges/large))](https://www.codewars.com/users/Somarutyagin)
+🤖 MY Codewars profile         [![codewars](https://www.codewars.com/users/Somarutyagin/badges/large))](https://www.codewars.com/users/Somarutyagin)
