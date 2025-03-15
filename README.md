@@ -1,7 +1,6 @@
 # My Pet project
 
-simple Vampire Survivors type game to showcase developer skills
-
+[simple Vampire Survivors type game to showcase developer skills](https://github.com/Somarutyagin/Somarutyagin.github.io)
 
 ## Here you can see
 
