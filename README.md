@@ -13,7 +13,7 @@ Contact me
 [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://t.me/unity_prog)
 
 🤖
-MY Codewars profile
+My Codewars profile
 
 [![codewars](https://www.codewars.com/users/Somarutyagin/badges/large))](https://www.codewars.com/users/Somarutyagin)
 
