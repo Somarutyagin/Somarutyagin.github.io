@@ -18,7 +18,7 @@ My Codewars profile
 [![codewars](https://www.codewars.com/users/Somarutyagin/badges/large))](https://www.codewars.com/users/Somarutyagin)
 
 ## Stack
-- Unity, c#, OOP, SOLID, DRY, KISS, singleton, fabric, strategy
+- Unity, c#, OOP, SOLID, DRY, YAGNI, KISS, singleton, fabric, strategy
 - unit test, json serialization, uniTask, MySQL, addressables
 - profiler, logcat, adaptive UI/UX, 2D/3D, zenject, DoTween
 - Spine, Figma, PhotoShop, Trello, GitHub, google sheets
