@@ -21,6 +21,7 @@ Contact me
 - Unity, c#, OOP, SOLID, DRY, YAGNI, KISS, singleton, fabric, strategy
 - unit test, json serialization, uniTask, MySQL, addressables
 - profiler, logcat, adaptive UI/UX, 2D/3D, zenject, DoTween
+- WebSocket, UnityWebRequest, AI api
 - Spine, Figma, PhotoShop, Trello, GitHub, google sheets
 - Firebase sdk, Facebook sdk, Yandex sdk, Tenjin sdk, IronSource sdk, OneSignal sdk, Unity IAP
   
