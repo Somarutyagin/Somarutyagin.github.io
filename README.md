@@ -18,10 +18,12 @@ Contact me
 [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://t.me/unity_prog)
 
 ## Stack
+- backend requests: POST, PUT, PATCH etc., websocket
+- rtsp stream translation
+- Ai text/image recognition
 - Unity, c#, OOP, SOLID, DRY, YAGNI, KISS, singleton, fabric, strategy
 - unit test, json serialization, uniTask, MySQL, addressables
 - profiler, logcat, adaptive UI/UX, 2D/3D, zenject, DoTween
-- WebSocket, UnityWebRequest, AI api
 - Spine, Figma, PhotoShop, Trello, GitHub, google sheets
 - Firebase sdk, Facebook sdk, Yandex sdk, Tenjin sdk, IronSource sdk, OneSignal sdk, Unity IAP
   
