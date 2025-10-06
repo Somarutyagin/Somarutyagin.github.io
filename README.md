@@ -18,7 +18,7 @@ Contact me
 [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://t.me/unity_prog)
 
 ## Stack
-- backend requests: POST, PUT, PATCH etc., websocket
+- REST API, websocket
 - rtsp stream translation
 - Ai text/image recognition
 - Unity, c#, OOP, SOLID, DRY, YAGNI, KISS, singleton, fabric, strategy
