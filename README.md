@@ -32,6 +32,7 @@ Contact me
 ## My Pet projects
 
 [Old pet project Vampire Survivors type](https://github.com/Somarutyagin/Somarutyagin.github.io)
+
 [simple Horror game](https://github.com/Somarutyagin/PetProj_HorrorDemo)
 
 ## Here you can see
