@@ -29,7 +29,11 @@ Contact me
 - Spine, Figma, PhotoShop, Trello, GitHub, google sheets
 - Firebase sdk, Facebook sdk, Yandex sdk, Tenjin sdk, IronSource sdk, OneSignal sdk, Unity IAP
   
-## My Pet projects
+## Skills showcase
+
+[My current developer skills](https://github.com/Somarutyagin/PetProj_FPS-Shooter)
+
+## Other Pet projects
 
 [Old pet project Vampire Survivors type](https://github.com/Somarutyagin/Somarutyagin.github.io)
 
