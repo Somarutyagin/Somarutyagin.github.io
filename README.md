@@ -31,7 +31,8 @@ Contact me
   
 ## My Pet projects
 
-[simple Vampire Survivors type game to showcase developer skills](https://github.com/Somarutyagin/Somarutyagin.github.io)
+[Old pet project Vampire Survivors type](https://github.com/Somarutyagin/Somarutyagin.github.io)
+[simple Horror game](https://github.com/Somarutyagin/PetProj_HorrorDemo)
 
 ## Here you can see
 
