@@ -19,15 +19,17 @@ Contact me
 
 ## Stack
 - REST API, websocket
-- rtsp stream translation
-- Ai text/image recognition
-- Unity, c#, OOP, SOLID, DRY, YAGNI, KISS, singleton, fabric, strategy
-- unit test, json serialization, uniTask, MySQL, addressables
-- profiler, logcat, adaptive UI/UX, 2D/3D, zenject, DoTween
+- ffmpeg
+- Tesseract
+- Unity, c#, OOP, SOLID, DRY, YAGNI, KISS
+- singleton, fabric, strategy, MVVM, objectpool, statemachine, observer
+- unit test, json, uniTask, MySQL
+- profiler, logcat, adaptive UI/UX, 2D/3D, zenject, DoTween, uniRX
+- WebSocket, UnityWebRequest
 - Spine, Figma, PhotoShop, Trello, GitHub, google sheets
 - Firebase sdk, Facebook sdk, Yandex sdk, Tenjin sdk, IronSource sdk, OneSignal sdk, Unity IAP
   
-## My Pet project
+## My Pet projects
 
 [simple Vampire Survivors type game to showcase developer skills](https://github.com/Somarutyagin/Somarutyagin.github.io)
 
@@ -43,7 +45,7 @@ Contact me
 * Singleton pattern
 * simple sound/anim managers
 
-## See other project
+## See other released projects
  - [Baby Host](https://play.google.com/store/apps/details?id=com.DefaultCompany.BabyHost&hl=en_US)
  - [DOTS](https://play.google.com/store/apps/details?id=com.qruqru.dots.flow.puzzle)
  - [Math Crosswords](https://yandex.ru/games/app/271091)
