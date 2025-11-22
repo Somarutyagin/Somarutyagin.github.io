@@ -19,7 +19,7 @@ Contact me
 
 ## Stack
 - Unity, c#, OOP, SOLID, DRY, YAGNI, KISS, camelCase, gitFlow
-- singleton, fabric, strategy, MVVM, objectpool, state, observer
+- singleton, fabric, strategy, MVVM, objectpool, state, observer, command
 - zenject, DoTween, uniRX, uniTask, addresables, ShaderGraph
 - unit test, json, profiler, frame debugger, logcat, adaptive UI/UX
 - WebSocket, UnityWebRequest, REST API, photon, MySQL, Tesseract, ffmpeg
