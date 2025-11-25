@@ -72,7 +72,10 @@ Other: Spine, Figma, PhotoShop, Trello, version control systems(GitHub, GitLab),
 Soft Skills: Agile/Scrum, Team Leadership, Teamwork, Problem-Solving, independent development.
 
 
+## 📔 Contacts | Контакты
+
 [![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://t.me/unity_prog)
+
 Email: roma59055@gmail.com
 
 Phone: +79127498281
