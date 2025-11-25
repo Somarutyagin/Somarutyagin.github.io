@@ -76,7 +76,7 @@ Soft Skills: Agile/Scrum, Team Leadership, Teamwork, Problem-Solving, independen
 
 [My current developer skills | Текущие навыки разработки](https://github.com/Somarutyagin/PetProj_FPS-Shooter)
 
-Other Pet Projects | Другие pet-проекты
+### Other Pet Projects | Другие pet-проекты
 
 [Old pet project Vampire Survivors type | Старый пет-проект в жанре "Vampire Survivors"](https://github.com/Somarutyagin/Somarutyagin.github.io)
 
