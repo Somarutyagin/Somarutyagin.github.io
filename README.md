@@ -36,18 +36,6 @@ Contact me
 
 [simple Horror game](https://github.com/Somarutyagin/PetProj_HorrorDemo)
 
-## Here you can see
-
-* asynchronous saves/loads
-* saving nested classes to a file using JSON serialization
-* OOP, singleton
-* Unit Tests
-* Bootstrap initialization
-* Extensions-Scripts
-* cross-platform oriented movement controller
-* Singleton pattern
-* simple sound/anim managers
-
 ## See other released projects
  - [Baby Host](https://play.google.com/store/apps/details?id=com.DefaultCompany.BabyHost&hl=en_US)
  - [DOTS](https://play.google.com/store/apps/details?id=com.qruqru.dots.flow.puzzle)
