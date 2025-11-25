@@ -67,7 +67,7 @@ Networking & APIs: WebSocket, UnityWebRequest, REST API, Photon, MySQL.
 
 Integrations: Firebase SDK, Facebook SDK, Yandex SDK, Tenjin, IronSource, OneSignal, Unity IAP.
 
-Other: Spine, Figma, PhotoShop, Trello, version control systems(GitHub, GitLab), Google Sheets, GitFlow, CamelCase.
+Other: Spine, Figma, PhotoShop, Trello, version control systems(GitHub, GitLab), Google Sheets, GitFlow, CamelCase, ffmpeg.
 
 Soft Skills: Agile/Scrum, Team Leadership, Teamwork, Problem-Solving, independent development.
 
