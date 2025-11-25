@@ -35,7 +35,7 @@ StartupVR, Россия, Новосибирск | 01.2020 — 02.2021 (1 год�
 Высшее образование: ИжГТУ, Факультет МиЕН, 2027 (в процессе получения).
 Сертификаты: Izhevsk State Technical University named after M.T. Kalashnikov. M.T. Kalashnikov (2023) - AI технологии.
 
-###Summary | Обзор
+### Summary | Обзор
 ## 🤖 Skills & Technologies | Навыки и технологии
 Core: Unity 3D/2D, C#, .NET, HLSL/Shaders, AR/VR (Oculus, HTC Vive, ARKit, ARCore), XR, AI/ML (TensorFlow, Unity ML-Agents), Cloud (AWS, Azure, GCP).
 Patterns & Tools: OOP, SOLID, DRY, YAGNI, KISS, Singleton, Factory, Strategy, MVVM, Object Pool, State, Observer, Command.
