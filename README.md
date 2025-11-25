@@ -70,14 +70,14 @@ Soft Skills: Agile/Scrum, Team Leadership, Teamwork, Problem-Solving, independen
 
 ## 🎯 Skills Showcase & Projects | Демонстрация навыков и проекты
 
-[My current developer skills | Текущие навыки разработки](https://github.com/Somarutyagin/PetProj_FPS-Shooter)
+[My current developer skills](https://github.com/Somarutyagin/PetProj_FPS-Shooter)
 
 ### Other Pet Projects | Другие pet-проекты
 
-[Old pet project Vampire Survivors type | Старый пет-проект в жанре "Vampire Survivors"](https://github.com/Somarutyagin/Somarutyagin.github.io)
+[Old pet project Vampire Survivors type](https://github.com/Somarutyagin/Somarutyagin.github.io)
 
 
-[simple Horror game | Demo хоррор игры](https://github.com/Somarutyagin/PetProj_HorrorDemo)
+[simple Horror game](https://github.com/Somarutyagin/PetProj_HorrorDemo)
 
 ## Released Projects | Выпущенные проекты
 [Baby Host](https://play.google.com/store/apps/details?id=com.DefaultCompany.BabyHost&hl=en_US) — 50K+ скачиваний, интеграция сервисов рекламы/покупки/аналитики.
