@@ -72,14 +72,6 @@ Other: Spine, Figma, PhotoShop, Trello, version control systems(GitHub, GitLab),
 Soft Skills: Agile/Scrum, Team Leadership, Teamwork, Problem-Solving, independent development.
 
 
-## 📔 Contacts | Контакты
-
-[![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://t.me/unity_prog)
-
-Email: roma59055@gmail.com
-
-Phone: +79127498281
-
 ## 🎯 Skills Showcase & Projects | Демонстрация навыков и проекты
 
 [My current developer skills | Текущие навыки разработки](https://github.com/Somarutyagin/PetProj_FPS-Shooter)
@@ -99,3 +91,12 @@ DOTS — 100K+ скачиваний, рейтинг 4.1/5, оптимизаци�
 Math Crosswords — 1M+ сессий (данные на 2023 год), рейтинг 4.5/5, настройка сервисов Яндекс игры.
 
 Cunning Thief — 2M+ сессий (данные на 2023 год), рейтинг 3.8/5, копия mobile проекта, оптимизация webGl.
+
+
+## 📔 Contacts | Контакты
+
+[![telegram](https://img.shields.io/badge/telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://t.me/unity_prog)
+
+Email: roma59055@gmail.com
+
+Phone: +79127498281
