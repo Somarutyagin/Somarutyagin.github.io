@@ -59,7 +59,7 @@ Frameworks: Zenject, DoTween, UniRX, UniTask, Addressables, ShaderGraph.
 
 Testing & Debug: Unit Tests, JSON, Profiler, Frame Debugger, Logcat, Adaptive UI/UX.
 
-Networking & APIs: WebSocket, UnityWebRequest, REST API, Photon, MySQL.
+Networking & APIs: WebSocket, UnityWebRequest, REST API, Photon, MySQL, CRUD-operation.
 
 Integrations: Firebase SDK, Facebook SDK, Yandex SDK, Tenjin, IronSource, OneSignal, Unity IAP.
 
