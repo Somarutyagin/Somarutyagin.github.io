@@ -53,7 +53,7 @@ Indie Startup, Россия, Новосибирск | 01.2020 — 02.2021 (1 г�
 ## 🤖 Skills & Technologies | Навыки и технологии
 Core: Unity 3D/2D, C#, .NET, HLSL/Shaders, AR/VR (Oculus, HTC Vive, ARKit, ARCore), XR, AI/ML (TensorFlow, Unity ML-Agents), Cloud (AWS, Azure, GCP).
 
-Patterns & Tools: OOP, SOLID, DRY, YAGNI, KISS, Singleton, Factory, Strategy, MVVM, Object Pool, State, Observer, Command.
+Patterns & Tools: OOP, SOLID, DRY, YAGNI, KISS, Singleton, Factory, Strategy, MVVM (MVC, MVP), Object Pool, State, Observer, Command.
 
 Frameworks: Zenject, DoTween, UniRX, UniTask, Addressables, ShaderGraph.
 
