@@ -6,6 +6,17 @@
 
 ## 🎮 Professional Experience | Профессиональный опыт
 
+### ASP.NET c# developer
+Русские информационные технологии, Ижевск, Россия (офис) | 12.2025 — по настоящее время
+
+Работал в команде 20+ человек закрывая мелкие/крупные задачи с front- и backend'ом
+
+Работал с базами данных EF, добавляя в проект новые функции
+
+Участвовал в планерках, созвонах и совещаниях, внедряя свои идеи и совершенствуя проект по желаниям заказчика
+
+Писал тесты и документацию, работал в гит по gitflow, вел отчетность
+
 ### Senior Unity Developer
 ООО "Айикс-2", Томбовская область, Россия (удалённо) | 03.2025 — 09.2025  (6+ месяцев)
 
@@ -59,7 +70,7 @@ Frameworks: Zenject, DoTween, UniRX, UniTask, Addressables, ShaderGraph.
 
 Testing & Debug: Unit Tests, JSON, Profiler, Frame Debugger, Logcat, Adaptive UI/UX.
 
-Networking & APIs: WebSocket, UnityWebRequest, REST API, Photon, MySQL, CRUD-operation.
+Networking & APIs: WebSocket, UnityWebRequest, REST API, Photon, CRUD-operation, jQuery, javascript, css, cshtml, SQL Server, ASP.NET.
 
 Integrations: Firebase SDK, Facebook SDK, Yandex SDK, Tenjin, IronSource, OneSignal, Unity IAP.
 
