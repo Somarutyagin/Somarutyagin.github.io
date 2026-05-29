@@ -1,7 +1,7 @@
 # 🚀 Unity/ASP.NET Developer Resume | Резюме Unity/ASP.NET Разработчика
 ## 👨‍💻 About Me | Обо мне
 
-Я — Senior Unity/.net Developer с 6+ годами опыта в full-stack коммерческой разработке, геймдеве и интеграции AR/VR/AI. Работаю в командах на mid-core, hyper-casual, casual, RPG, rogue-like проектах, достиг 3.5M+ скачиваний и 70%+ удержания пользователей. Владею Unity 6.1, asp.net, sql, ARKit/ARCore, Oculus SDK, TensorFlow и облачными платформами (AWS, Azure). Ищу возможности для инновационных проектов. Готов к удалённой/гибридной работе. Место жительства - Россия, Ижевск.
+Я — Senior Unity//ASP.NET(CORE/MVC) Developer с 6+ годами опыта в full-stack коммерческой разработке, геймдеве и интеграции AR/VR/AI. Работаю в командах на mid-core, hyper-casual, casual, RPG, rogue-like проектах, достиг 3.5M+ скачиваний и 70%+ удержания пользователей. Владею Unity 6.1, asp.net, sql, ARKit/ARCore, Oculus SDK, TensorFlow и облачными платформами (AWS, Azure). Ищу возможности для инновационных проектов. Готов к удалённой/гибридной работе. Место жительства - Россия, Ижевск.
 
 
 ## 🎮 Professional Experience | Профессиональный опыт
