@@ -1,7 +1,7 @@
 # 🚀 Unity Developer Resume | Резюме Unity Разработчика
 ## 👨‍💻 About Me | Обо мне
 
-Я — Senior Unity Developer с 6+ годами опыта в full-stack коммерческой разработке, геймдеве и интеграции AR/VR/AI. Работаю в командах на mid-core, hyper-casual, casual, RPG, rogue-like проектах, достиг 3.5M+ скачиваний и 70%+ удержания пользователей. Владею Unity 6.1, C#, ARKit/ARCore, Oculus SDK, TensorFlow и облачными платформами (AWS, Azure). Ищу возможности для инновационных проектов. Готов к удалённой работе. Место жительства - Россия, Ижевск.
+Я — Senior Unity/.net Developer с 6+ годами опыта в full-stack коммерческой разработке, геймдеве и интеграции AR/VR/AI. Работаю в командах на mid-core, hyper-casual, casual, RPG, rogue-like проектах, достиг 3.5M+ скачиваний и 70%+ удержания пользователей. Владею Unity 6.1, asp.net, sql, ARKit/ARCore, Oculus SDK, TensorFlow и облачными платформами (AWS, Azure). Ищу возможности для инновационных проектов. Готов к удалённой/гибридной работе. Место жительства - Россия, Ижевск.
 
 
 ## 🎮 Professional Experience | Профессиональный опыт
@@ -11,7 +11,9 @@
 
 Работал в команде 20+ человек закрывая мелкие/крупные задачи с front- и backend'ом
 
-Работал с базами данных EF, добавляя в проект новые функции
+Взаимодействовал с другими командами, подключался на другие проекты с другими технологиями
+
+Работал с базами данных EF, добавляя в проект новые функции, выгружая разные списки по требованию руководства
 
 Участвовал в планерках, созвонах и совещаниях, внедряя свои идеи и совершенствуя проект по желаниям заказчика
 
@@ -32,7 +34,7 @@
 
 
 ### Unity Developer
-Immortal Games, удалённо | 04.2021 — 02.2025 (4+ лет)
+Immortal Games (удалённо) | 04.2021 — 02.2025 (4+ лет)
 
 
 работал с legacy кодом, рефакторил его, достигая поддержки и читаемости проекта.
@@ -70,7 +72,7 @@ Frameworks: Zenject, DoTween, UniRX, UniTask, Addressables, ShaderGraph.
 
 Testing & Debug: Unit Tests, JSON, Profiler, Frame Debugger, Logcat, Adaptive UI/UX.
 
-Networking & APIs: WebSocket, UnityWebRequest, REST API, Photon, CRUD-operation, jQuery, javascript, css, cshtml, SQL Server, ASP.NET.
+Networking & APIs: WebSocket, UnityWebRequest, REST API, Photon, CRUD-operation, jQuery, javascript, css, cshtml, SQL, ASP.NET MVC/CORE.
 
 Integrations: Firebase SDK, Facebook SDK, Yandex SDK, Tenjin, IronSource, OneSignal, Unity IAP.
 
@@ -91,7 +93,7 @@ Soft Skills: Agile/Scrum, Team Leadership, Teamwork, Problem-Solving, independen
 [simple Horror game](https://github.com/Somarutyagin/PetProj_HorrorDemo)
 
 ## Released Projects | Выпущенные проекты
-[Baby Host](https://play.google.com/store/apps/details?id=com.DefaultCompany.BabyHost&hl=en_US) — 50K+ скачиваний, интеграция сервисов рекламы/покупки/аналитики.
+[Baby Host](https://play.google.com/store/apps/details?id=com.DefaultCompany.BabyHost&hl=en_US) — 50K+ скачиваний, создание под ключ, интеграция сервисов рекламы/покупки/аналитики.
 
 [DOTS](https://play.google.com/store/apps/details?id=com.qruqru.dots.flow.puzzle) — 100K+ скачиваний, рейтинг 4.1/5, оптимизация под мобильные, перенос с webGL.
 
