@@ -19,6 +19,10 @@
 
 Писал тесты и документацию, работал в гит по gitflow, вел отчетность
 
+Парсил IIS логи, составляя статистику по запросам
+
+Оптимизировал http и sql запросы
+
 ### Senior Unity Developer
 ООО "Айикс-2", Томбовская область, Россия (удалённо) | 03.2025 — 09.2025  (6+ месяцев)
 
@@ -70,7 +74,7 @@ Patterns & Tools: OOP, SOLID, DRY, YAGNI, KISS, Singleton, Factory, Strategy, MV
 
 Frameworks: Zenject, DoTween, UniRX, UniTask, Addressables, ShaderGraph.
 
-Testing & Debug: Unit Tests, JSON, Profiler, Frame Debugger, Logcat, Adaptive UI/UX.
+Testing & Debug: Unit Tests, JSON, Profiler, Frame Debugger, Logcat, Adaptive UI/UX, MiniProfiler, ms sql query analyzer.
 
 Networking & APIs: WebSocket, UnityWebRequest, REST API, Photon, CRUD-operation, jQuery, javascript, css, cshtml, SQL, ASP.NET MVC/CORE.
 
